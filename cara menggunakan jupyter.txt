@@ -1,0 +1,6 @@
+1. download anaconda disini = https://www.anaconda.com/download/
+1. buka anaconda prompt
+2. ketik 'Jupyter Notebook'
+4. lalu nanti akan muncul localhost di browser anda .
+5. pilih tombol atau menu new . 
+6. lalu pilih phython3 
